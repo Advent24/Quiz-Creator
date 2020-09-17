@@ -1,1 +1,1 @@
-# Quiz-Creator
+I restarted this homework twice, on this round I found a video and followed through with the guy. Not exactly the same as what the homework is calling for, but close. I had my questions actually popping up after the start button was clicked, but for some reason later its still just displaying the html text. I haven't even gotten to the timer yet or styled the header in yet. I was hoping to get the body functional, but its just not quite clicking and its getting late.
